@@ -76,7 +76,10 @@ int main() {
 }
 ```
 OUTPUT:
-![377735616-d091aaf9-3c0a-4b53-b7a6-40418c0d4d5a](https://github.com/user-attachments/assets/2ff06b6c-8333-404c-9d8c-e032dcc69982)
+
+
+![cd](https://github.com/user-attachments/assets/6bd21bb8-c443-4c22-85e4-1a9840a7e58d)
+
 
 RESULT:
 
